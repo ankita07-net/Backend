@@ -1,0 +1,12 @@
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\bin\Debug\netstandard2.0\TrialProject.Entities.deps.json
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\bin\Debug\netstandard2.0\TrialProject.Entities.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\bin\Debug\netstandard2.0\TrialProject.Entities.pdb
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.csprojAssemblyReference.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.AssemblyInfoInputs.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.AssemblyInfo.cs
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.csproj.CopyComplete
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.Entities\obj\Debug\netstandard2.0\TrialProject.Entities.pdb

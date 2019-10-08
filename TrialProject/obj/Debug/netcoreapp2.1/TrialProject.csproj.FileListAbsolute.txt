@@ -1,0 +1,17 @@
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProject.deps.json
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProject.runtimeconfig.json
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProject.runtimeconfig.dev.json
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProject.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProject.pdb
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProjectEntities.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\bin\Debug\netcoreapp2.1\TrialProjectEntities.pdb
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.csprojAssemblyReference.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.csproj.CoreCompileInputs.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.RazorAssemblyInfo.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.RazorAssemblyInfo.cs
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.AssemblyInfoInputs.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.AssemblyInfo.cs
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.RazorTargetAssemblyInfo.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.csproj.CopyComplete
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject\obj\Debug\netcoreapp2.1\TrialProject.pdb

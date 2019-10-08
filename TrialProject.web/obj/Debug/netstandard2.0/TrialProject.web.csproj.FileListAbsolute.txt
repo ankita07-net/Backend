@@ -1,0 +1,9 @@
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\bin\Debug\netstandard2.0\TrialProject.web.deps.json
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\bin\Debug\netstandard2.0\TrialProject.web.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\bin\Debug\netstandard2.0\TrialProject.web.pdb
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\obj\Debug\netstandard2.0\TrialProject.web.csprojAssemblyReference.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\obj\Debug\netstandard2.0\TrialProject.web.csproj.CoreCompileInputs.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\obj\Debug\netstandard2.0\TrialProject.web.AssemblyInfoInputs.cache
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\obj\Debug\netstandard2.0\TrialProject.web.AssemblyInfo.cs
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\obj\Debug\netstandard2.0\TrialProject.web.dll
+C:\Users\asonaniya\source\repos\TrialProject\TrialProject.web\obj\Debug\netstandard2.0\TrialProject.web.pdb
